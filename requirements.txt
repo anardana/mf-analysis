@@ -1,0 +1,9 @@
+Flask==0.12.2
+gunicorn==19.7.1
+scipy==1.0.0
+
+# Dependencies for build automation
+pylint==1.7.4
+astroid==1.5.3
+path.py==10.5
+invoke==0.21.0
